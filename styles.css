@@ -1,16 +1,16 @@
 @font-face {
     font-family: BOLD_FONT_CAPITALS_ONLY;
-    src: url("../purplephantasm.github.io/font/BOLD_FONT_CAPITALS_ONLY.ttf");
+    src: url("../font/BOLD_FONT_CAPITALS_ONLY.ttf");
 }
 @font-face {
     font-family: Crayon_Print;
-    src: url("../purplephantasm.github.io/font/Crayon_Print.ttf");
+    src: url("../font/Crayon_Print.ttf");
 }
 
 
 body{
     text-align: center;
-    background-image: url("../purplephantasm.github.io/image/Background_Purple_Phantasm.png");
+    background-image: url("../image/Background_Purple_Phantasm.png");
     background-size: cover;     
 }
 
